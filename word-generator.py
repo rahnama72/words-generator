@@ -1,4 +1,6 @@
-
+import RE 
+import String
+import RSTR
 def words_generator(upper=0,lower=0,digit=0,special=0):
     '''
     Requirement Package: 1.RE 2.String 3.RSTR
